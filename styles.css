@@ -9,3 +9,10 @@ body {
     padding: 36px;
     font-size: 48px;
 }
+#button1{
+    color: red;
+}
+.text{
+    background-color: white;
+}
+
